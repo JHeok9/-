@@ -1,4 +1,4 @@
-[포트폴리오_김준혁06.30.pdf](https://github.com/JHeok9/water_potability/files/11914283/_.06.30.pdf)# water_potability
+# water_potability
 수질음용 여부 분류 머신러닝
 
 ## Data
