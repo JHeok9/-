@@ -6,15 +6,34 @@ Kaggle 데이터 활용 (https://www.kaggle.com/datasets/adityakadiwal/water-pot
 ![image](https://github.com/JHeok9/water_potability/assets/121952545/695d96c2-a08f-4012-928f-bea6c3097b50)
 
 ph : 물의 산성 또는 알칼리성을 나타내는 지표, 0~14 범위, 7은 중성 7보다 낮으면 산성, 높으면 알칼리성
+
+
 Hardness : 물의 경도, 칼슘과 마그네슘의 양을 나타냄, 경도가 높을시 침전물 형성
+
+
 Solids : 물 내의 전체 용해성 고형물의 농도, 깨끗한과 탁함을 나타냄
+
+
 Chloramines : 염소와 암모니아의 결합체, 물의 소독수준을 나타냄
+
+
 Sulfate : 황산염, 물에 포함된 황의 양을 나타냄
+
+
 Conductivity : 전도도, 물의 전기 전도 능력을 나타냄
+
+
 Organic_carbon : 유기탄소, 물에 표함된 유기물의 양을 나타냄
+
+
 Trihalomethanes : 클로로폼, 브로모디클로로메탄 등과 같은 클로로포름 계열의 화합물
+
+
 Turbidity : 탁도, 물 내의 불순물로 인해 빛의 투과력이 얼마나 감소하는지를 나타냄
+
+
 Potability : 물의 음용 가능성 또는 마실 수 있는 상태를 나타내는 지표
+
 
 ### 기술통계 및 상관계수 확인
 ![image](https://github.com/JHeok9/water_potability/assets/121952545/52544d9f-a133-4842-9367-7fcc11fcc9d2)
